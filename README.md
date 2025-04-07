@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # SpringBoot-Vue-001_College-Employment-Recruitment-System
+
 基于 SpringBoot + MyBatis Plus + Shiro 的 B/S 架构招聘平台，包含管理员、企业用户、求职者三类角色，实现岗位发布、简历投递、在线留言等功能。采用 MySQL 数据库存储，前端集成 LayUI 组件库，支持文件上传和百度 AI 接口集成。
-=======
+
 # 大学生就业招聘系统 / College Employment Recruitment System
 
-# 核心技术
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7%2B-brightgreen)
 ![Vue](https://img.shields.io/badge/Vue-2.x-green)
 
@@ -62,6 +61,7 @@ src/
 │   │   │   ├── layui/               # UI框架
 ```
 # 使用说明
+```
 后台地址：http://localhost:8080/springbootiv1oo/admin/dist/index.html  
 管理员账号：abo / abo  
 
@@ -110,4 +110,3 @@ src/
 > 如需更多Java相关项目毕设3000+，有其他项目需求，sql文件等可联系博主v:xq-lucky311
 ![输入图片说明](%E7%91%9E%E5%B9%B8%EF%BC%81%E7%91%9E%E5%B9%B8%EF%BC%81.png)
 ---
->>>>>>> c5f7dfc (初始提交)
